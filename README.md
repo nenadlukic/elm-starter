@@ -16,7 +16,7 @@ Installed node, npm, yarn and elm.
 
 ## Installation
 
-```js
+```bash
 yarn && elm-package install
 ```
 
